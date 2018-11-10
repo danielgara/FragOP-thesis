@@ -1,0 +1,20 @@
+/*B-fline*/
+
+body {
+  padding-top: 3.5rem;
+}
+
+img{
+	max-width: 100%;
+    max-height: 100%;
+}
+
+a{
+	text-decoration:none;
+}
+
+a:hover{
+	text-decoration:none;
+	}
+
+/*B-lline*/
