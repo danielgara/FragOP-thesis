@@ -7,7 +7,7 @@
       </div>
 
       <div class="container">
-      
+      <!--BCP-shipping-text-->
         <div class="row">
           <div class="col-md-12">
             <h2>Shipping Costs</h2>
@@ -24,7 +24,7 @@ We ship orders to all US states and territories, APO/FPO addresses as well as mo
           </div>
 
         </div>
-        
+       <!--ECP-shipping-text--> 
        </div>
 
 
