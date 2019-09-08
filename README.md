@@ -4,6 +4,8 @@
 
 **ClothingStores models** contains the ClothingStores SPL models, including the model for the VariaMos old version, and VariaMos web version.
 
+**Colciencias project documents** contains some documents that must be presented in a Colciencias project.
+
 **FragOP - SWI-Prolog definition** contains a definition of the FragOP approach in SWI-Prolog.
 
 **SMS** contains some files used in the SMS development.
