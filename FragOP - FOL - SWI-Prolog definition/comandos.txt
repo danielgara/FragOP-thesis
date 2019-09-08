@@ -1,0 +1,11 @@
+//check the initial domain files
+findall([X],domainFile(F,FNAME,X,FDEST),List).
+
+//execute derivation over a new product with ID: P1
+executeDerivation(calculator,P1).
+
+//customize derivation
+customizeDerivation(calculator).
+
+//show the final derived application files
+findall([X],showDerivedFiles(P1,AF,X),List).
